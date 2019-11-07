@@ -9,7 +9,7 @@ class Demo extends StatefulWidget {
 }
 
 class _DemoState extends State<Demo> {
-  Continer day(String img1,String img2){
+  Container day(String img1,String img2){
     return  Container(
             margin: EdgeInsets.only(top: 10.0),
             child: Row(
